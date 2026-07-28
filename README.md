@@ -7,7 +7,7 @@
   <a href="https://www.instagram.com/josecoelhoaudio/">Instagram</a>
 </p>
 
-<h3 align="center"> Here you can find projects that i worked on as well as experiences </h3>
+<h3 align="center"> Below you will find an overview of my academic background and my professional career as an audio engineer in live audio and broadcast sports context. You can also explore my projects, which focus heavily on audio programming, sound design, and field recording.  </h3>
 
 ---
 
@@ -27,6 +27,5 @@ I've worked in
 ---
 
 <h3 align="center">Field Recording</h3>
-I've worked in
-
+I am really passionate about Field Recording and therefore I've spent many hours recording objects and environments that around me. Successfully made two sound libraries that you can find below.
 ---
