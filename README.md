@@ -40,7 +40,15 @@ I've worked in
 ---
 
 <h3 align="center">Audio Programming</h3>
-I've worked in
+
+ ### ColinasEQ
+
+Is a real-time 3-band parametric equalizer audio plugin built in C++ using the JUCE framework, inspired by FreeCodeCamp’s tutorial series by Matkat Music. The plugin features a fully customizable parametric peak filter alongside low-cut and high-cut multi-slope Butterworth filters capable of 12 dB to 48 dB per octave attenuation. 
+
+The DSP engine is built on a modular `ProcessorChain` architecture utilizing `juce::dsp::FilterDesign` for IIR coefficient generation, managed seamlessly through `AudioProcessorValueTreeState` for full parameter automation and state recall. To support real-time spectrum analysis and response curve rendering, ColinasEQ implements custom thread-safe FIFO buffering classes (`SingleChannelSampleFifo`) for efficient per-channel audio analysis, leaving the processing engine modular, performant, and ready for full GUI integration.
+
+You can find the projects github's page at  <a href="https://josecoelho.bandcamp.com/">ColinasEQ</a> 
+
 
 ---
 
