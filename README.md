@@ -12,7 +12,9 @@
 ---
 
 <h3 align="center">Academic Background</h3>
-My foundation in sound was built at the University of the West of England, Bristol, where I completed the BSc(Hons) Audio and Music Technology degree. 
+
+My foundation in sound was built at the University of the West of England, Bristol, where I completed the BSc(Hons) Audio and Music Technology degree.
+
 
 Over a three-year deep dive into the art of sound and its underlying technologies, the course covered the full spectrum of modern audio—bridging sound design with audio programming, live sound, and audio engineering.
 
@@ -39,6 +41,7 @@ I've worked in
 ---
 
 <h3 align="center">Field Recording</h3>
+
 During my academic journey, I was introduced to the art of field recording. Over the years, I’ve captured more than 1,000 unique sounds—ranging from everyday household objects like knives and door squeaks to open-air environments like rivers and indoor spaces such as airport rooms.
 
 This passion led me to build and publish two custom sound libraries on Bandcamp for sound designers and creators. One release captures the unique, intimate world of an active Honeybee Hive, while the other features 35 unique water sounds, from splashes to micro-bubbles. Both were recorded in high resolution (192kHz/32-bit) using a Sennheiser MKE 600
