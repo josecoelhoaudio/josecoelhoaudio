@@ -2,13 +2,12 @@
 
 <p align="center">
   <a href="https://github.com/josecoelhoaudio/CV">CV</a> •
+  <a href="https://github.com/josecoelhoaudio/Certifications/tree/main">Certifications</a> •
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/josecoelhoaudio/">LinkedIn</a> •
   <a href="https://www.instagram.com/josecoelhoaudio/">Instagram</a>
 </p>
 
-- 🔭 Currently working as an **Audio Engineer Freelancer**
-- 📍 Based in **Lisbon**
-- 📫 Reach me [josecoelho8@hotmail.com](mailto:josecoelho8@hotmail.com)
+<h3 align="center"> Here you can find projects that i worked on as well as experiences </h3>
 
 ---
 
