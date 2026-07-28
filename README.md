@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://github.com/josecoelhoaudio/CV">CV</a> •
   <a href="https://github.com/josecoelhoaudio/Certifications/tree/main">Certifications</a> •
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/josecoelhoaudio/">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/josecoelhoaudio/">LinkedIn</a> •
   <a href="https://www.instagram.com/josecoelhoaudio/">Instagram</a>
 </p>
 
