@@ -25,9 +25,9 @@ Here you will find:
 My foundation in sound was built at the University of the West of England, Bristol, where I completed the BSc(Hons) Audio and Music Technology degree.
 
 
-Over a three-year deep dive into the art of sound and its underlying technologies, the course covered the full spectrum of modern audio—bridging sound design with audio programming, live sound, and audio engineering.
+Over a three-year deep dive into the art of sound and its underlying technologies, the course covered the full spectrum of modern audio, bridging sound design with audio programming, live sound, and audio engineering.
 
-I was fortunate to learn directly from incredible mentors, including Dr. Chris Nash and BAFTA/EMMY award-winner Martyn Harries, who went above and beyond to pass along their craft.
+I was fortunate to learn directly from incredible mentors, including Dr. Chris Nash, Dr Maxwell Davies and BAFTA/EMMY award-winner Martyn Harries, who went above and beyond to pass along their craft.
 
 Having access to world-class facilities and professional audio equipment made it seamless to translate classroom theory directly into practice, forging a foundation of skills that I rely on to this day.
 
