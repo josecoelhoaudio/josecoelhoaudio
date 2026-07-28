@@ -12,7 +12,7 @@
 ---
 
 <h3 align="center">Academic Background</h3>
-My foundation in sound was built at the University of the West of England, Bristol, where I completed BSc(Hons) Audio and Music Technology degree. 
+My foundation in sound was built at the University of the West of England, Bristol, where I completed the BSc(Hons) Audio and Music Technology degree. 
 
 Over a three-year deep dive into the art of sound and its underlying technologies, the course covered the full spectrum of modern audio—bridging sound design with audio programming, live sound, and audio engineering.
 
