@@ -7,7 +7,16 @@
   <a href="https://www.instagram.com/josecoelhoaudio/">Instagram</a>
 </p>
 
-<h3 align="center"> Below you will find an overview of my academic background and my professional career as an audio engineer in live audio and broadcast sports context. You can also explore my projects, which focus heavily on audio programming, sound design, and field recording.  </h3>
+<h3 align="center"> 
+  
+Here you will find:
+
+<h3 align="left"> 
+
+* **My Academic Background:** An overview of my Academic Background.
+* **My Professional Career:** The journey as an Audio Engineer.
+* **My Projects:** Focused on **Audio Programming**, **Sound Design**, and **Field Recording**.
+</h3>
 
 ---
 
