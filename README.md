@@ -57,7 +57,9 @@ The DSP engine is built on a modular `ProcessorChain` architecture utilizing `ju
 
 You can find the projects github's page at  <a href="https://github.com/josecoelhoaudio/ColinasEQ">ColinasEQ</a> 
 
-<img width="803" height="627" alt="Screenshot 2024-12-18 at 17 35 22" src="https://github.com/user-attachments/assets/34071676-a500-4ea1-a197-636ae883e949" />
+https://github.com/user-attachments/assets/414f7503-c7c3-48e7-8878-a03c93ed30d5
+
+
 
 
 
