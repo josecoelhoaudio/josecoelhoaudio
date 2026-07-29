@@ -32,23 +32,24 @@ For a year and a half, I worked full-time as part of the sound team at SPORT TV,
 Since 2021, I have worked as a freelance audio engineer across Bristol and Lisbon, collaborating with high-profile clients including the BBC, SPORT TV, Teatro Politeama, Arnolfini Arts Centre, and The Louisiana. My freelance work spans live broadcast operation and advanced RF management (radio mics, IFBs, and IEMs), FOH and monitor engineering in fast-paced live music environments, and theatre sound operation managing multi-channel wireless setups. In addition to live setups and PA alignment, I also handle mixing and mastering for commercial advertising and digital media.
 
 
-<h2 align="left">Projects</h2>
+<h2 align="left">My Projects</h2>
 
 <h3 align="left">Audio Programming - ColinasEQ Plugin </h3>
 
- 
+Inspired by FreeCodeCamp’s tutorial series by Matkat Music, I built a real-time 3-band parametric equalizer audio plugin using C++ and the JUCE framework.
 
-Is a real-time 3-band parametric equalizer audio plugin built in C++ using the JUCE framework, inspired by FreeCodeCamp’s tutorial series by Matkat Music. The plugin features a fully customizable parametric peak filter alongside low-cut and high-cut multi-slope Butterworth filters capable of 12 dB to 48 dB per octave attenuation. 
+The plugin features a fully customizable parametric peak filter alongside low-cut and high-cut multi-slope Butterworth filters capable of 12 dB to 48 dB per octave attenuation. 
 
-The DSP engine is built on a modular `ProcessorChain` architecture utilizing `juce::dsp::FilterDesign` for IIR coefficient generation, managed seamlessly through `AudioProcessorValueTreeState` for full parameter automation and state recall. To support real-time spectrum analysis and response curve rendering, ColinasEQ implements custom thread-safe FIFO buffering classes (`SingleChannelSampleFifo`) for efficient per-channel audio analysis, leaving the processing engine modular, performant, and ready for full GUI integration.
+The DSP engine is built on a modular `ProcessorChain` architecture utilizing `juce::dsp::FilterDesign` for IIR coefficient generation, managed seamlessly through `AudioProcessorValueTreeState` for full parameter automation and state recall. To support real-time spectrum analysis and response curve rendering, ColinasEQ implements custom thread-safe FIFO buffering classes (`SingleChannelSampleFifo`) for efficient per-channel audio analysis.
 
 You can find the projects github's page at  <a href="https://github.com/josecoelhoaudio/ColinasEQ">ColinasEQ</a> 
 
 
----
+<img width="803" height="627" alt="Screenshot 2024-12-18 at 17 35 22" src="https://github.com/user-attachments/assets/34071676-a500-4ea1-a197-636ae883e949" />
 
-<h3 align="center">Sound Design</h3>
-I've worked in
+
+<h3 align="left">Sound Desing - Cidade de Deus Trailer </h3>
+
 
 ---
 
