@@ -1,13 +1,10 @@
-<h2 align="center"> Welcome to José Coelho's Portfolio</h3>
-
-<p align="center">
+<h3 align="center"> Welcome to José Coelho's Portfolio 
+  
   <a href="https://github.com/josecoelhoaudio/CV">CV</a> •
   <a href="https://github.com/josecoelhoaudio/Certifications/tree/main">Certifications</a> •
   <a href="https://www.linkedin.com/in/josecoelhoaudio/">LinkedIn</a> •
   <a href="https://www.instagram.com/josecoelhoaudio/">Instagram</a>
-</p>
-
-
+</h3>
 
 <h2 align="left">Academic Background</h2>
 
@@ -36,9 +33,9 @@ Since 2021, I have worked as a freelance audio engineer across Bristol and Lisbo
 
 <h2 align="left">Projects</h2>
 
-<h3 align="left">Audio Programming</h3>
+<h3 align="left">Audio Programming - ColinasEQ Plugin </h3>
 
- ### ColinasEQ
+ 
 
 Is a real-time 3-band parametric equalizer audio plugin built in C++ using the JUCE framework, inspired by FreeCodeCamp’s tutorial series by Matkat Music. The plugin features a fully customizable parametric peak filter alongside low-cut and high-cut multi-slope Butterworth filters capable of 12 dB to 48 dB per octave attenuation. 
 
