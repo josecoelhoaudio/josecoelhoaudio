@@ -67,7 +67,7 @@ You can find the projects github's page at  <a href="https://github.com/josecoel
   
 - Sound Redesing - Cidade de Deus Trailer
 
-As previously mention, att **SPORT TV**, I created sound design for commercials, promos, and podcasts however, outside of broadcast, I have also done sound redesigns of movie trailers and gameplay to keep my skills sharp. 
+As previously mention, at **SPORT TV**, I created sound design for commercials, promos, and podcasts however, outside of broadcast, I have also done sound redesigns of movie trailers and gameplay to keep my skills sharp. 
 
 A major highlight of this work is my redesign of a trailer for ***Cidade de Deus* (City of God)**, where I re-cut scenes from the film into a new trailer edit before building the entire audio track from the ground up. The soundscape was created entirely from scratch, combining curated sound libraries with custom Foley recording sessions.
 
