@@ -1,4 +1,4 @@
-<h3 align="center"> Welcome to José Coelho's Portfolio</h3>
+<h2 align="center"> Welcome to José Coelho's Portfolio</h3>
 
 <p align="center">
   <a href="https://github.com/josecoelhoaudio/CV">CV</a> •
@@ -7,20 +7,9 @@
   <a href="https://www.instagram.com/josecoelhoaudio/">Instagram</a>
 </p>
 
-<h3 align="left"> 
-  
-Here you will find:
 
-<h3 align="left"> 
 
-* **An overview of my Academic Background**
-* **My Professional Career as an Audio Engineer**
-* **My Projects** focused on **Audio Programming**, **Sound Design**, and **Field Recording**
-</h3>
-
----
-
-<h3 align="center">Academic Background</h3>
+<h2 align="left">Academic Background</h2>
 
 My foundation in sound was built at the University of the West of England, Bristol, where I completed the BSc(Hons) Audio and Music Technology degree.
 
@@ -33,13 +22,21 @@ Having access to world-class facilities and professional audio equipment made it
 
 <img width="1920" height="1280" alt="UWE Bristol Recording Studio (2021) Behind the scenes of a coursework recording session (1)" src="https://github.com/user-attachments/assets/10fd6f27-d25c-4d6a-8030-b9b130ec3a22" />
 
----
-<h3 align="center">Professional Experience</h3>
-I've worked in
 
----
+<h2 align="left">Professional Experience</h2>
 
-<h3 align="center">Audio Programming</h3>
+### SPORT TV - Sound Technician (05/2024 - 10/2025)
+
+For a year and a half, I worked full-time as part of the sound team at SPORT TV, building operational experience within a high-pressure broadcast environment. I gained hands-on practice operating live audio for TV broadcasts on Sport TV+ and premium channels, alongside mixing and monitoring commentators and ambient sound across the network's 7 pay-TV channels. My role also included podcast post-production and creating sound design for promos and commercial content.
+
+### FREELANCE - Sound Engineer (2021 - Present)
+
+Since 2021, I have worked as a freelance audio engineer across Bristol and Lisbon, collaborating with high-profile clients including the BBC, SPORT TV, Teatro Politeama, Arnolfini Arts Centre, and The Louisiana. My freelance work spans live broadcast operation and advanced RF management (radio mics, IFBs, and IEMs), FOH and monitor engineering in fast-paced live music environments, and theatre sound operation managing multi-channel wireless setups. In addition to live setups and PA alignment, I also handle mixing and mastering for commercial advertising and digital media.
+
+
+<h2 align="left">Projects</h2>
+
+<h3 align="left">Audio Programming</h3>
 
  ### ColinasEQ
 
