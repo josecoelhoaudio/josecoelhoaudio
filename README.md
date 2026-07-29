@@ -1,3 +1,4 @@
+
 <h3 align="center"> Welcome to José Coelho's Portfolio 
   
   <a href="https://github.com/josecoelhoaudio/CV">CV</a> •
@@ -58,6 +59,10 @@ During my academic journey, I was introduced to the art of field recording. Over
 This passion led me to build and publish two custom sound libraries on Bandcamp for sound designers and creators. One release captures the unique, intimate world of an active Honeybee Hive, while the other features 35 unique water sounds, from splashes to micro-bubbles. Both were recorded in high resolution (192kHz/32-bit) using a Sennheiser MKE 600
 
 You can find both libraries here <a href="https://josecoelho.bandcamp.com/">Jose Coelho's Bandcamp</a> 
+
+<img width="1908" height="920" alt="both covers" src="https://github.com/user-attachments/assets/e694a1ec-51c4-4c56-8584-333d48408d81" />
+
+
 
 
 ---
