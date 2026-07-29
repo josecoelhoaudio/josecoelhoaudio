@@ -7,7 +7,7 @@
   <a href="https://www.instagram.com/josecoelhoaudio/">Instagram</a>
 </p>
 
-<h3 align="center"> 
+<h3 align="left"> 
   
 Here you will find:
 
@@ -15,7 +15,7 @@ Here you will find:
 
 * **An overview of my Academic Background**
 * **My Professional Career as an Audio Engineer**
-* **My Projects** focused on **Audio Programming**, **Sound Design**, and **Field Recording**.
+* **My Projects** focused on **Audio Programming**, **Sound Design**, and **Field Recording**
 </h3>
 
 ---
@@ -31,7 +31,7 @@ I was fortunate to learn directly from incredible mentors, including Dr. Chris N
 
 Having access to world-class facilities and professional audio equipment made it seamless to translate classroom theory directly into practice, forging a foundation of skills that I rely on to this day.
 
-<img width="1024" height="683" alt="WhatsApp Image 2022-03-03 at 15 57 22 (1)" src="https://github.com/user-attachments/assets/e21c3a4f-9a93-4558-a98c-f94972631204" />
+<img width="1920" height="1280" alt="UWE Bristol Recording Studio (2021) Behind the scenes of a coursework recording session (1)" src="https://github.com/user-attachments/assets/10fd6f27-d25c-4d6a-8030-b9b130ec3a22" />
 
 ---
 <h3 align="center">Professional Experience</h3>
