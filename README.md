@@ -7,6 +7,10 @@
   <a href="https://www.instagram.com/josecoelhoaudio/">Instagram</a>
 </h3>
 
+
+
+
+
 <h2 align="left">Academic Background</h2>
 
 At the **University of the West of England, Bristol**, I built my foundation in sound by completing the BSc(Hons) Audio and Music Technology degree.
@@ -20,6 +24,9 @@ Having access to world-class facilities and professional audio equipment made it
 <img width="1920" height="1280" alt="UWE Bristol Recording Studio (2021) Behind the scenes of a coursework recording session (1)" src="https://github.com/user-attachments/assets/10fd6f27-d25c-4d6a-8030-b9b130ec3a22" />
 
 
+
+
+
 <h2 align="left">Professional Experience</h2>
 
 ### SPORT TV - Sound Technician (05/2024 - 10/2025)
@@ -28,13 +35,19 @@ For a year and a half, I worked full-time as part of the sound team at SPORT TV,
 
 ### FREELANCE - Sound Engineer (2021 - Present)
 
-Since 2021, I have worked as a freelance audio engineer across Bristol and Lisbon, collaborating with high-profile clients including the BBC, SPORT TV, Teatro Politeama, Arnolfini Arts Centre, and The Louisiana. My freelance work spans live broadcast operation and advanced RF management (radio mics, IFBs, and IEMs), FOH and monitor engineering in fast-paced live music environments, and theatre sound operation managing multi-channel wireless setups. In addition to live setups and PA alignment, I also handle mixing and mastering for commercial advertising and digital media.
+Since 2021, I have worked as a audio engineer freelancer across Bristol and Lisbon, collaborating with high-profile clients including the BBC, SPORT TV, Teatro Politeama, Arnolfini Arts Centre, and The Louisiana. My freelance work spans live broadcast operation and advanced RF management (radio mics, IFBs, and IEMs), FOH and monitor engineering in fast-paced live music environments, and theatre sound operation managing multi-channel wireless setups. In addition to live setups and PA alignment, I also handle mixing and mastering for commercial advertising and digital media.
+
+
 
 
 
 <h2 align="left">My Projects</h2>
 
-<h3 align="left">Audio Programming - ColinasEQ Plugin </h3>
+
+<h3 align="center">Audio Programming</h3>
+  
+  
+- ColinasEQ (Pluigin)
 
 Inspired by FreeCodeCamp’s tutorial series by Matkat Music, I built a real-time 3-band parametric equalizer audio plugin using C++ and the JUCE framework.
 
@@ -44,11 +57,20 @@ The DSP engine is built on a modular `ProcessorChain` architecture utilizing `ju
 
 You can find the projects github's page at  <a href="https://github.com/josecoelhoaudio/ColinasEQ">ColinasEQ</a> 
 
-
 <img width="803" height="627" alt="Screenshot 2024-12-18 at 17 35 22" src="https://github.com/user-attachments/assets/34071676-a500-4ea1-a197-636ae883e949" />
 
 
-<h3 align="left">Sound Desing - Cidade de Deus Trailer </h3>
+
+
+<h3 align="center">Sound Desing</h3>
+  
+  
+- Sound Redesing - Cidade de Deus Trailer
+
+As previously mention, att **SPORT TV**, I created sound design for commercials, promos, and podcasts however, outside of broadcast, I have also done sound redesigns of movie trailers and gameplay to keep my skills sharp. 
+
+A major highlight of this work is my redesign of a trailer for ***Cidade de Deus* (City of God)**, where I re-cut scenes from the film into a new trailer edit before building the entire audio track from the ground up. The soundscape was created entirely from scratch, combining curated sound libraries with custom Foley recording sessions.
+
 
   <a href="https://youtu.be/TWRlX0r90QE?si=s_brk-7hz9CTdGyv">Cidade de Deus Trailer Sound Redesign</a>
 
