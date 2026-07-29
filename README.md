@@ -13,9 +13,9 @@ Here you will find:
 
 <h3 align="left"> 
 
-* **My Academic Background:** An overview of my Academic Background.
-* **My Professional Career:** The journey as an Audio Engineer.
-* **My Projects:** Focused on **Audio Programming**, **Sound Design**, and **Field Recording**.
+* **An overview of my Academic Background**
+* **My Professional Career as an Audio Engineer**
+* **My Projects** focused on **Audio Programming**, **Sound Design**, and **Field Recording**.
 </h3>
 
 ---
