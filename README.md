@@ -31,6 +31,7 @@ For a year and a half, I worked full-time as part of the sound team at SPORT TV,
 Since 2021, I have worked as a freelance audio engineer across Bristol and Lisbon, collaborating with high-profile clients including the BBC, SPORT TV, Teatro Politeama, Arnolfini Arts Centre, and The Louisiana. My freelance work spans live broadcast operation and advanced RF management (radio mics, IFBs, and IEMs), FOH and monitor engineering in fast-paced live music environments, and theatre sound operation managing multi-channel wireless setups. In addition to live setups and PA alignment, I also handle mixing and mastering for commercial advertising and digital media.
 
 
+
 <h2 align="left">My Projects</h2>
 
 <h3 align="left">Audio Programming - ColinasEQ Plugin </h3>
@@ -49,8 +50,8 @@ You can find the projects github's page at  <a href="https://github.com/josecoel
 
 <h3 align="left">Sound Desing - Cidade de Deus Trailer </h3>
 
+  <a href="https://youtu.be/TWRlX0r90QE?si=s_brk-7hz9CTdGyv">Cidade de Deus Trailer Sound Redesign</a>
 
----
 
 <h3 align="center">Field Recording</h3>
 
