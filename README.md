@@ -47,7 +47,7 @@ Is a real-time 3-band parametric equalizer audio plugin built in C++ using the J
 
 The DSP engine is built on a modular `ProcessorChain` architecture utilizing `juce::dsp::FilterDesign` for IIR coefficient generation, managed seamlessly through `AudioProcessorValueTreeState` for full parameter automation and state recall. To support real-time spectrum analysis and response curve rendering, ColinasEQ implements custom thread-safe FIFO buffering classes (`SingleChannelSampleFifo`) for efficient per-channel audio analysis, leaving the processing engine modular, performant, and ready for full GUI integration.
 
-You can find the projects github's page at  <a href="https://josecoelho.bandcamp.com/">ColinasEQ</a> 
+You can find the projects github's page at  <a href="https://github.com/josecoelhoaudio/ColinasEQ">ColinasEQ</a> 
 
 
 ---
