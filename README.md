@@ -21,6 +21,8 @@ I was fortunate to learn directly from incredible mentors, including Dr. Chris N
 
 Having access to world-class facilities and professional audio equipment made it seamless to translate classroom theory directly into practice, forging a foundation of skills that I rely on to this day.
 
+<img width="1024" height="768" alt="1785408306838" src="https://github.com/user-attachments/assets/df60f0dc-dee0-4232-9e0e-7fef69731850" />
+
 <img width="1920" height="1280" alt="UWE Bristol Recording Studio (2021) Behind the scenes of a coursework recording session (1)" src="https://github.com/user-attachments/assets/10fd6f27-d25c-4d6a-8030-b9b130ec3a22" />
 
 
@@ -32,6 +34,12 @@ Having access to world-class facilities and professional audio equipment made it
 ### SPORT TV - Sound Technician (05/2024 - 10/2025)
 
 For a year and a half, I worked full-time as part of the sound team at SPORT TV, building operational experience within a high-pressure broadcast environment. I gained hands-on practice operating live audio for TV broadcasts on Sport TV+ and premium channels, alongside mixing and monitoring commentators and ambient sound across the network's 7 pay-TV channels. My role also included podcast post-production and creating sound design for promos and commercial content.
+
+
+
+https://github.com/user-attachments/assets/4fb81f07-04be-480b-bb43-8880da6db7ab
+
+
 
 ### FREELANCE - Sound Engineer (2021 - Present)
 
