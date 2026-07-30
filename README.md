@@ -47,6 +47,7 @@ https://github.com/user-attachments/assets/4fb81f07-04be-480b-bb43-8880da6db7ab
 Since 2021, I have worked as a audio engineer freelancer across Bristol and Lisbon, collaborating with high-profile clients including the BBC, SPORT TV, Teatro Politeama, Arnolfini Arts Centre, and The Louisiana. My freelance work spans live broadcast operation and advanced RF management (radio mics, IFBs, and IEMs), FOH and monitor engineering in fast-paced live music environments, and theatre sound operation managing multi-channel wireless setups. In addition to live setups and PA alignment, I also handle mixing and mastering for commercial advertising and digital media.
 
 
+<img width="1920" height="1280" alt="UWE Bristol Recording Studio (2021) Behind the scenes of a coursework recording session (4)" src="https://github.com/user-attachments/assets/82159f7e-1282-4a2a-a18f-1c40a378a9df" />
 
 
 
@@ -78,12 +79,17 @@ https://github.com/user-attachments/assets/414f7503-c7c3-48e7-8878-a03c93ed30d5
   
 - Sound Redesing - Cidade de Deus Trailer
 
-As previously mention, at **SPORT TV**, I created sound design for commercials, promos, and podcasts however, outside of broadcast, I have also done sound redesigns of movie trailers and gameplay to keep my skills sharp. 
+As previously mentioned, at **SPORT TV**, I created sound design for commercials, promos, and podcasts however, outside of broadcast, I have also done sound redesigns of movie trailers and gameplay to keep my skills sharp. 
 
 A major highlight of this work is my redesign of a trailer for ***Cidade de Deus* (City of God)**, where I re-cut scenes from the film into a new trailer edit before building the entire audio track from the ground up. The soundscape was created entirely from scratch, combining curated sound libraries with custom Foley recording sessions.
 
+Watch it here   <a href="https://youtu.be/TWRlX0r90QE?si=y4hm_hyHbuUpRYJY">Youtube Link</a> 
 
-  <a href="https://youtu.be/TWRlX0r90QE?si=s_brk-7hz9CTdGyv">Cidade de Deus Trailer Sound Redesign</a>
+<img width="1074" height="1043" alt="NEWVERSION cidadededeusthumbnailCidadeDeDeusCidadeDeDeus" src="https://github.com/user-attachments/assets/24be5123-c498-4ce4-aa3e-0d17a771dc60" />
+
+
+
+
 
 
 <h3 align="center">Field Recording</h3>
