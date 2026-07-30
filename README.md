@@ -21,9 +21,10 @@ I was fortunate to learn directly from incredible mentors, including Dr. Chris N
 
 Having access to world-class facilities and professional audio equipment made it seamless to translate classroom theory directly into practice, forging a foundation of skills that I rely on to this day.
 
-<img width="1024" height="768" alt="1785408306838" src="https://github.com/user-attachments/assets/df60f0dc-dee0-4232-9e0e-7fef69731850" />
+<img width="1920" height="1280" alt="UWE Bristol Recording Studio (2021) Behind the scenes of a coursework recording session (2)" src="https://github.com/user-attachments/assets/df048c36-f714-45ed-a832-50da9012b305" />
 
-<img width="1920" height="1280" alt="UWE Bristol Recording Studio (2021) Behind the scenes of a coursework recording session (1)" src="https://github.com/user-attachments/assets/10fd6f27-d25c-4d6a-8030-b9b130ec3a22" />
+
+<img width="1920" height="1280" alt="UWE Bristol Recording Studio (2021) Behind the scenes of a coursework recording session (3)" src="https://github.com/user-attachments/assets/fb969e3e-80e0-42d5-a1d2-1357928231eb" />
 
 
 
