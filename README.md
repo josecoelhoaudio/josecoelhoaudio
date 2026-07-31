@@ -86,7 +86,7 @@ A major highlight of this work is my redesign of a trailer for ***Cidade de Deus
 
 Watch it here   <a href="https://youtu.be/TWRlX0r90QE?si=y4hm_hyHbuUpRYJY">Youtube Link</a> 
 
-<img width="215" height="209" alt="Untitled design (1)" src="https://github.com/user-attachments/assets/60ff7d7b-b660-4ed5-b040-2c77a9643a55" />
+<img width="1074" height="1043" alt="NEWVERSION cidadededeusthumbnailCidadeDeDeusCidadeDeDeus" src="https://github.com/user-attachments/assets/cafe0e9a-6174-4e09-9b97-290db2b4adb2" />
 
 
 
