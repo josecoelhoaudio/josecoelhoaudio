@@ -37,19 +37,19 @@ Having access to world-class facilities and professional audio equipment made it
 For a year and a half, I worked full-time as part of the sound team at SPORT TV, building operational experience within a high-pressure broadcast environment. I gained hands-on practice operating live audio for TV broadcasts on Sport TV+ and premium channels, alongside mixing and monitoring commentators and ambient sound across the network's 7 pay-TV channels. My role also included podcast post-production and creating sound design for promos and commercial content.
 
 
+https://github.com/user-attachments/assets/750b0953-0db5-44fd-adbe-0022fcaacc27
 
-https://github.com/user-attachments/assets/4fb81f07-04be-480b-bb43-8880da6db7ab
+
+
+
 
 
 
 ### FREELANCE - Sound Engineer (2021 - Present)
 
-Since 2021, I have worked as a audio engineer freelancer across Bristol and Lisbon, collaborating with high-profile clients including the BBC, SPORT TV, Teatro Politeama, Arnolfini Arts Centre, and The Louisiana. My freelance work spans live broadcast operation and advanced RF management (radio mics, IFBs, and IEMs), FOH and monitor engineering in fast-paced live music environments, and theatre sound operation managing multi-channel wireless setups. In addition to live setups and PA alignment, I also handle mixing and mastering for commercial advertising and digital media.
-
+Since 2021, I have worked as a audio engineer freelancer across Bristol and Lisbon, collaborating with high-profile clients including the BBC, SPORT TV, Arnolfini Arts Centre, The Louisiana and many others. My freelance work spans live broadcast operation and RF management (radio mics, IFBs, and IEMs), FOH and monitor engineering in fast-paced live music environments, as well as theatre sound operation.
 
 <img width="1920" height="1280" alt="UWE Bristol Recording Studio (2021) Behind the scenes of a coursework recording session (4)" src="https://github.com/user-attachments/assets/82159f7e-1282-4a2a-a18f-1c40a378a9df" />
-
-
 
 <h2 align="left">My Projects</h2>
 
@@ -85,8 +85,7 @@ A major highlight of this work is my redesign of a trailer for ***Cidade de Deus
 
 Watch it here   <a href="https://youtu.be/TWRlX0r90QE?si=y4hm_hyHbuUpRYJY">Youtube Link</a> 
 
-<img width="1074" height="1043" alt="NEWVERSION cidadededeusthumbnailCidadeDeDeusCidadeDeDeus" src="https://github.com/user-attachments/assets/24be5123-c498-4ce4-aa3e-0d17a771dc60" />
-
+<img width="215" height="209" alt="Untitled design (1)" src="https://github.com/user-attachments/assets/60ff7d7b-b660-4ed5-b040-2c77a9643a55" />
 
 
 
