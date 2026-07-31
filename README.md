@@ -50,7 +50,8 @@ https://github.com/user-attachments/assets/750b0953-0db5-44fd-adbe-0022fcaacc27
 Since 2021, I have worked as a audio engineer freelancer across Bristol and Lisbon, collaborating with high-profile clients including the BBC FA Cup, St. Stephen’s Church, Arnolfini Arts
 Centre, The Louisiana, UWE Centre for Sports, Blaise High School and many others. My freelance work spans live broadcast operation and RF management (radio mics, IFBs, and IEMs), FOH and monitor engineering in fast-paced live music environments, as well as theatre sound operation.
 
-<img width="1920" height="1280" alt="UWE Bristol Recording Studio (2021) Behind the scenes of a coursework recording session (4)" src="https://github.com/user-attachments/assets/82159f7e-1282-4a2a-a18f-1c40a378a9df" />
+<img width="1920" height="1280" alt="UWE Bristol Recording Studio (2021) Behind the scenes of a coursework recording session (5)" src="https://github.com/user-attachments/assets/2698351a-9095-465e-836b-25c496595498" />
+
 
 <h2 align="left">My Projects</h2>
 
