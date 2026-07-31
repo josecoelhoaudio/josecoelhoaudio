@@ -77,7 +77,7 @@ https://github.com/user-attachments/assets/414f7503-c7c3-48e7-8878-a03c93ed30d5
 <h3 align="center">Sound Desing</h3>
   
   
-- Sound Redesing - Cidade de Deus Trailer
+- Sound Desing - Cidade de Deus Trailer
 
 As previously mentioned, at **SPORT TV**, I created sound design for commercials, promos, and podcasts however, outside of broadcast, I have also done sound redesigns of movie trailers and gameplay to keep my skills sharp. 
 
